@@ -1,0 +1,18 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "features": {
+        "ghcr.io/devcontainers/features/hugo:1": {
+            "extended": true
+        }
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "eamodio.gitlens",
+                "yzhang.markdown-all-in-one",
+                "budparr.language-hugo-vscode"
+            ]
+        }
+    },
+    "postCreateCommand": "git submodule update --init"
+}

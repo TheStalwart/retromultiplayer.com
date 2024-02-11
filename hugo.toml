@@ -12,6 +12,7 @@ disableKinds = ["taxonomy", "term"] # unsupported by Lynx theme
     image = "rmp_logo.png"
     links = [
         { discord = "https://discord.gg/wuvKNmurPR" },
+        { email = "mailto:info@retromultiplayer.com" },
         { facebook = "https://www.facebook.com/RetroMultiplayer" },
         { instagram = "https://www.instagram.com/retromultiplayer/" },
         { tiktok = "https://www.tiktok.com/@retromultiplayer.com" },

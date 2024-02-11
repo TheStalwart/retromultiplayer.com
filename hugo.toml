@@ -3,3 +3,6 @@ languageCode = 'en-us'
 title = 'RetroMultiplayer'
 theme = 'lynx'
 disableKinds = ["taxonomy", "term"] # unsupported by Lynx theme
+
+[author]
+    name = "RetroMultiplayer" # copyright label on page footer

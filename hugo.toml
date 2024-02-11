@@ -2,3 +2,4 @@ baseURL = 'https://retromultiplayer.com/'
 languageCode = 'en-us'
 title = 'RetroMultiplayer'
 theme = 'lynx'
+disableKinds = ["taxonomy", "term"] # unsupported by Lynx theme

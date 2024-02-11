@@ -9,3 +9,10 @@ disableKinds = ["taxonomy", "term"] # unsupported by Lynx theme
 
 [params.author]
     headline = "Gaming community in Riga, Latvia"
+    links = [
+        { discord = "https://discord.gg/wuvKNmurPR" },
+        { facebook = "https://www.facebook.com/RetroMultiplayer" },
+        { instagram = "https://www.instagram.com/retromultiplayer/" },
+        { tiktok = "https://www.tiktok.com/@retromultiplayer.com" },
+        { youtube = "https://www.youtube.com/@retromultiplayer4666" }
+    ]

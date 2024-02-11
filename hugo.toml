@@ -1,3 +1,4 @@
 baseURL = 'https://retromultiplayer.com/'
 languageCode = 'en-us'
 title = 'RetroMultiplayer'
+theme = 'lynx'

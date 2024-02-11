@@ -6,3 +6,6 @@ disableKinds = ["taxonomy", "term"] # unsupported by Lynx theme
 
 [author]
     name = "RetroMultiplayer" # copyright label on page footer
+
+[params.author]
+    headline = "Gaming community in Riga, Latvia"

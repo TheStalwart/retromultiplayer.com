@@ -1,4 +1,6 @@
-# Local gaming communities
+---
+title: Local gaming communities
+---
 
 - 🇪🇪 Estonia
   - [J-Tsoon - Youth and Asian Subcultures Festival](https://j-tsoon.ee)

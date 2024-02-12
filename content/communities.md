@@ -1,0 +1,20 @@
+# Local gaming communities
+
+- 🇪🇪 Estonia
+  - [J-Tsoon - Youth and Asian Subcultures Festival](https://j-tsoon.ee)
+  - [osu!Eestis](https://osu.ee)
+- 🇮🇹 Italy
+  - [Lucca Comics & Games](https://www.luccacomicsandgames.com/it/)
+- 🇱🇻 Latvia
+  - [Latvian Fighting Game Community](https://discord.gg/p6MsCPxcW3)
+  - [osu!Latvia](https://osu.lv)
+  - [UniCon - Latvian Comic Con](https://www.unicon.lv)
+- 🇱🇹 Lithuania
+  - [Comic Con Baltics](https://ccbaltics.com)
+  - [Lithuanian Fighting Game Community](https://discord.gg/KEXcCe89zx)
+  - [Silicio Palėpė](https://www.youtube.com/@SilicioPalepe)
+- 🇵🇱 Poland
+  - [Festiwal Popkultury Japońskiej Magnificon Expo](https://www.facebook.com/miohi/)
+- 🇸🇪 Sweden
+  - [BrainDrain Retro LAN](https://braindrainlan.com)
+  - [NärCon - Norra Europas största spel- och cosplayfestival](https://www.narcon.se)

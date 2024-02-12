@@ -10,6 +10,7 @@ title: Local gaming communities
 - 🇱🇻 Latvia
   - [Latvian Fighting Game Community](https://discord.gg/p6MsCPxcW3)
   - [osu!Latvia](https://osu.lv)
+  - [RetroMultiplayer](https://retromultiplayer.com)
   - [UniCon - Latvian Comic Con](https://www.unicon.lv)
 - 🇱🇹 Lithuania
   - [Comic Con Baltics](https://ccbaltics.com)

@@ -3,6 +3,7 @@ title: Local gaming communities
 ---
 
 - 🇪🇪 Estonia
+  - [CuFa - RC Drifti ja Vaba Aja Keskus](https://cufa.ee/)
   - [J-Tsoon - Youth and Asian Subcultures Festival](https://j-tsoon.ee)
   - [osu!Eestis](https://osu.ee)
 - 🇮🇹 Italy

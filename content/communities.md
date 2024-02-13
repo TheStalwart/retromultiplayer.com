@@ -13,6 +13,7 @@ title: Local gaming communities
   - [osu!Latvia](https://osu.lv)
   - [RetroMultiplayer](https://retromultiplayer.com)
   - [UniCon - Latvian Comic Con](https://www.unicon.lv)
+  - [Yuranka Games](https://linktr.ee/yurankatcg)
 - 🇱🇹 Lithuania
   - [Comic Con Baltics](https://ccbaltics.com)
   - [Lithuanian Fighting Game Community](https://discord.gg/KEXcCe89zx)

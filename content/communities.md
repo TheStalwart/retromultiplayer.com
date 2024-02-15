@@ -6,6 +6,8 @@ title: Local gaming communities
   - [CuFa - RC Drifti ja Vaba Aja Keskus](https://cufa.ee/)
   - [J-Tsoon - Youth and Asian Subcultures Festival](https://j-tsoon.ee)
   - [osu!Eestis](https://osu.ee)
+- 🇩🇪 Germany
+  - [Asia Arena](https://www.asia-arena.de/)
 - 🇮🇹 Italy
   - [Lucca Comics & Games](https://www.luccacomicsandgames.com/it/)
 - 🇱🇻 Latvia

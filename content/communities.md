@@ -25,3 +25,7 @@ title: Local gaming communities
 - 🇸🇪 Sweden
   - [BrainDrain Retro LAN](https://braindrainlan.com)
   - [NärCon - Norra Europas största spel- och cosplayfestival](https://www.narcon.se)
+
+---
+
+[Upcoming European Anime Convention Schedule | AnimeCons.com](https://animecons.com/events/schedule.php?loc=eu)

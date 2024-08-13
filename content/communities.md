@@ -28,4 +28,4 @@ title: Local gaming communities
 
 ---
 
-[Upcoming European Anime Convention Schedule | AnimeCons.com](https://animecons.com/events/schedule.php?loc=eu)
+[Upcoming European  Convention Schedule | FanCons.com](https://fancons.com/events/schedule.php?loc=eu)

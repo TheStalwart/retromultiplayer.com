@@ -6,6 +6,7 @@ disableKinds = ["taxonomy", "term"] # unsupported by Lynx theme
 
 [params]
 description = 'Gaming community in Riga, Latvia'
+images = ['apple-touch-icon.png']
 
 [params.author]
     name = "RetroMultiplayer" # copyright label on page footer

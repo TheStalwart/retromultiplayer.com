@@ -4,10 +4,8 @@ title = 'RetroMultiplayer'
 theme = 'lynx'
 disableKinds = ["taxonomy", "term"] # unsupported by Lynx theme
 
-[author]
-    name = "RetroMultiplayer" # copyright label on page footer
-
 [params.author]
+    name = "RetroMultiplayer" # copyright label on page footer
     headline = "Gaming community in Riga, Latvia"
     image = "rmp_logo.png"
     links = [

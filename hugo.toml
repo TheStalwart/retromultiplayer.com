@@ -6,7 +6,7 @@ disableKinds = ["taxonomy", "term"] # unsupported by Lynx theme
 
 [params]
 description = 'Gaming community in Riga, Latvia'
-images = ['android-chrome-512x512.png']
+images = ['interior.jpg']
 
 [params.author]
     name = "RetroMultiplayer" # copyright label on page footer
